@@ -75,4 +75,3 @@ The goal of this project is to create an app that evaluates the quality of cloth
 - **Deliverables**:
   - Officially launch the app and begin user onboarding.
   - Collect user feedback and usage data for post-launch updates.
-  - no Plan for future updates, such as adding new features like the recommendation system.
